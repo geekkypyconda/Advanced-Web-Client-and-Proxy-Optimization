@@ -3,7 +3,7 @@
 ## Project Overview
 -------------------
 
-This assignment is entirely based on the Python programming language. The project is divided into four parts: Client, Proxy, Server, and Extended Client.
+This project is entirely based on the Python programming language. The project is divided into four parts: Client, Proxy, Server, and Extended Client.
 
 ### How to Run the Client.py
 ---------------------------
