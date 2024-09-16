@@ -1,4 +1,4 @@
-# Advanced-Web-Client-and-Proxy-Optimization
+# Web-Client-and-Proxy-Optimization
 
 ## Project Overview
 -------------------
